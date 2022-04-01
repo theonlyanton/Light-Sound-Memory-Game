@@ -46,10 +46,11 @@ The following **additional** features are implemented:
 <br/>
 **An error is displayed when the time runs out.**
 <br/>
+![Running out of time](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/noMoreTime.gif)
+<br/>
 <br/>
 **Clicking and holding on the buttons "highlights" them and displays an image.**
-![Running out of time](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/noMoreTime.gif)
-
+<br/>
 ![Highlighting buttons](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/highlightingButtons.gif)
 ![](gif4-link-here)
 
