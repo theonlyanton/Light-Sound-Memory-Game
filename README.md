@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![Resetting the high score](http://g.recordit.co/71UTImHJWM.gif)
-<img src="http://g.recordit.co/71UTImHJWM.gif" width="40" height="40" />
+![Resetting the high score](http://g.recordit.co/pbRM57xNxJ.gif)
+
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
