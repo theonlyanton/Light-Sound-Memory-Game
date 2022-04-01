@@ -40,9 +40,11 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 Reset the high score to 0
+/
 ![Resetting the high score](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/resetHighScore.gif)
-
+/
 error displayed when time runs out
+/
 ![Running out of time](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/noMoreTime.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
