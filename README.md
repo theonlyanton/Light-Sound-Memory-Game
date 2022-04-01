@@ -78,12 +78,7 @@ The following **additional** features are implemented:
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
 
-     [After completing my submission, I have questions about how to more efficiently generate CSS files in which sizing (of all elements) is functional yet also consistent. For example, it is possible to set the height and length of a "div" container element based on units of EM, PX, PT, CM,  or IN. I want to understand the specific circumstances in which certain units are preferred over others. Furthermore, I would to learn how knowledge of common data structures, such as a linked list or graph, can be integrated with the backend portion of a project. Where is the data stored? How is it manipulated? This is an important part of full-stack development as there are numerous technologies that a programmer could use to generate the same digital product. Finally, I would also like to visualize the way in which the JavaScript language implements object-oriented programming (OOP). JavaScript is not a class-based language so it is interesting to understand how its version of OOP is directly connected to HTML and CSS files.
-
-
-
-
-]
+     [After completing my submission, I have questions about how to more efficiently generate CSS files in which sizing (of all elements) is functional yet also consistent. For example, it is possible to set the height and length of a "div" container element based on units of EM, PX, PT, CM,  or IN. I want to understand the specific circumstances in which certain units are preferred over others. Furthermore, I would to learn how knowledge of common data structures, such as a linked list or graph, can be integrated with the backend portion of a project. Where is the data stored? How is it manipulated? This is an important part of full-stack development as there are numerous technologies that a programmer could use to generate the same digital product. Finally, I would also like to visualize the way in which the JavaScript language implements object-oriented programming (OOP). JavaScript is not a class-based language so it is interesting to understand how its version of OOP is directly connected to HTML and CSS files.]
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
 [YOUR ANSWER HERE]
