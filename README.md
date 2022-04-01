@@ -40,17 +40,17 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 **The reset button changes the high score to 0.**
-<br/>
+
 ![Resetting the high score](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/resetHighScore.gif)
 <br/>
 <br/>
 **An error is displayed when the timer runs out.**
-<br/>
+
 ![Running out of time](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/noMoreTime.gif)
 <br/>
 <br/>
 **Clicking and holding onto a button "highlights" an image.**
-<br/>
+
 ![Highlighting buttons](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/highlightingButtons.gif)
 <br/>
 <br/>
