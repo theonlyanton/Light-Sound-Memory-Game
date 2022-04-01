@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Resetting the high score](http://g.recordit.co/71UTImHJWM.gif)
-<img src="http://g.recordit.co/71UTImHJWM.gif" width=250><br>
+<img src="http://g.recordit.co/71UTImHJWM.gif" width=250><img>
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
