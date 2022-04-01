@@ -41,8 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![Resetting the high score](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/resetHighScore.gif)
-
-![](gif2-link-here)
+![Running out of time](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/noMoreTime.gif)
 ![](gif3-link-here)
 ![](gif4-link-here)
 
