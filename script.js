@@ -144,6 +144,10 @@ function guess(btn){
     if(guessCounter == progress){
       
       if(progress == pattern.length - 1){
+        progress++;
+        currentScore = progress;
+        updateParagraph();
+        
         winGame();
         reset = true;
       }else{
