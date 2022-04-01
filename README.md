@@ -52,7 +52,11 @@ The following **additional** features are implemented:
 **Clicking and holding onto a button "highlights" an image.**
 <br/>
 ![Highlighting buttons](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/highlightingButtons.gif)
-![](gif4-link-here)
+<br/>
+<br/>
+**The game starts and ends with all the appropriate changes.**
+
+![Starting and ending the game](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/startGameEndGame.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
