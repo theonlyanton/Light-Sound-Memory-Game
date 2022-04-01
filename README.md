@@ -57,6 +57,11 @@ The following **additional** features are implemented:
 **The game starts and ends with all the appropriate changes.**
 
 ![Starting and ending the game](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/startGameEndGame.gif)
+<br/>
+<br/>
+**Entering the wrong sequence means that you lose the game.**
+
+![Losing the game](https://github.com/theonlyanton/Light-Sound-Memory-Game/blob/main/.gif-assets/loseGame.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
